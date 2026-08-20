@@ -1,0 +1,12 @@
+last_change = 2026-08-20T19:00:21.370339Z
+addr = 0x777f0
+size = 0x1a2
+name = "SDL_PreInitMouse"
+type = "char"
+
+[header]
+name = "SDL_PreInitMouse"
+addr = 0x777f0
+type = "char"
+
+[header.args]

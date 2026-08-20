@@ -1,0 +1,12 @@
+last_change = 2026-08-20T19:00:20.828417Z
+addr = 0x76f90
+size = 0x8
+name = "SDL_GetMouse"
+type = "void *"
+
+[header]
+name = "SDL_GetMouse"
+addr = 0x76f90
+type = "void *"
+
+[header.args]
